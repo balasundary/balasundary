@@ -45,7 +45,7 @@
 <hr>
 
 ## 🐍 Contribution Snake
-![snake gif](https://raw.githubusercontent.com/Balasundary/Balasundary/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/balasundary/balasundary/output/github-contribution-grid-snake.svg)
 
 
 

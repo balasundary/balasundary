@@ -20,7 +20,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...�
-
+<hr>
 <p align="center">🛠️ Tech Stack</p>
 <p align="center">Languages & Frameworks</p>
 <p align="center"> 
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=python"/> 
-
+</p>
 <hr>
 <p align="center">⚙️ Tools & Technologies</p>
 <p align="center">  
@@ -36,14 +36,14 @@
   <img src="https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TryHackMe-00BFFF?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 </p>
-</p>
-<hr>
+
 <h2 align="center">📈 Activity Graph</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Balasundary&theme=react-dark"/>
 </p>
-<hr>
 
 <h2 align="center">🔗 Connect With Me</h2>
 

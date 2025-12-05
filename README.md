@@ -47,7 +47,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Balasundary/Balasundary/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/balasundary/balasundary/output/github-contribution-grid-snake.svg" />
 </p>
 
 

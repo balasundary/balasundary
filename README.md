@@ -44,4 +44,8 @@
 </p>
 <hr>
 
+## 🐍 Contribution Snake
+![snake gif](https://raw.githubusercontent.com/Balasundary/Balasundary/output/github-contribution-grid-snake.svg)
+
+
 

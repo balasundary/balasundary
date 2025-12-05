@@ -44,11 +44,13 @@
 </p>
 <hr>
 
-## 🐍 GitHub Contribution Snake  
+## 📊 GitHub Overview
 
-<div align="center">
-  
-![snake gif](https://raw.githubusercontent.com/balasundary/balasundary/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=balasundary&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balasundary&theme=tokyonight" width="48%" />
+</p>
+
 
 
 

@@ -41,6 +41,11 @@
 </p>
 </p>
 <hr>
+<h2 align="center">📈 Activity Graph</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Balasundary&theme=react-dark"/>
+</p>
+<hr>
 
 <h2 align="center">🔗 Connect With Me</h2>
 
@@ -50,4 +55,9 @@
   </a>
 </p>
 
+<h2 align="center">Visitor Count</h2>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RishiRagu2510&color=brightgreen&style=for-the-badge"/>
+
+</p>
 

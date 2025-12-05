@@ -1,16 +1,14 @@
 # <p align="center">Hi, I'm <strong>Balasundary </strong> 👋</p>
 
 <p align="center">
-  <em>Full-Stack Developer • Java Developer • QA Automation • Problem Solver</em>
+  <em>Web-Designer • Java Programmer  • Problem Solver</em>
 </p>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+web+apps;Automating+tests;Java+Developer;Learning+new+tech" 
-    alt="typing"
-/>
+    src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=650&lines=Web+Designer;Java+Programmer;Problem+Solver" 
+    alt="typing"/>
 </p>
-
 
 <hr>
 
@@ -26,12 +24,13 @@
 <p align="center">🛠️ Tech Stack</p>
 <p align="center">Languages & Frameworks</p>
 <p align="center"> 
-  <img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=java"/> 
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript"/> 
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=python"/> 
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/> 
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5"/> 
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/> 
+
 <hr>
 
 <hr>

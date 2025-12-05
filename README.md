@@ -46,7 +46,7 @@
 
 <p align="center">
 
-  <a align="center" href="https://www.linkedin.com/in/balasundary-m-05502229a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a  href="https://www.linkedin.com/in/balasundary-m-05502229a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 

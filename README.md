@@ -44,10 +44,11 @@
 </p>
 <hr>
 
-## 🐍 Contribution Snake
+## 🐍 GitHub Contribution Snake  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/balasundary/balasundary/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
+  
+![snake gif](https://raw.githubusercontent.com/balasundary/balasundary/output/github-contribution-grid-snake.svg)
+
 
 

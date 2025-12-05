@@ -32,8 +32,6 @@
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/> 
 
 <hr>
-
-<hr>
 <p align="center">⚙️ Tools & Technologies</p>
 <p align="center">  
   <img src="https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code"/>
@@ -44,13 +42,11 @@
 </p>
 <hr>
 
-## 📊 GitHub Overview
+## 🔗 Connect With Me  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balasundary&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balasundary&theme=tokyonight" width="48%" />
+
+  <a href="https://www.linkedin.com/in/balasundary-m-05502229a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-
-
 
 

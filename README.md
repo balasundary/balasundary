@@ -43,10 +43,6 @@
   <img src="https://img.shields.io/badge/-TryHackMe-00BFFF?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 </p>
 
-<h2 align="center">📈 Activity Graph</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Balasundary&theme=react-dark"/>
-</p>
 
 <h2 align="center">🔗 Connect With Me</h2>
 

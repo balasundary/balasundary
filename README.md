@@ -42,6 +42,14 @@
   <img src="https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
   <img src="https://img.shields.io/badge/-TryHackMe-00BFFF?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 </p>
+<hr>
+<h2 align="center">🚀 Status  </h2>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlzazNxY2VwaWxhbDRqbGZyaGlpOWs1YThlZXpoemZmMGFrYmJvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="350">
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balasundary&theme=tokyonight" />
+</p>
+<hr>
 
 <h2 align="center">🔗 Connect With Me</h2>
 

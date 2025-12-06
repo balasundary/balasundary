@@ -4,7 +4,7 @@
   <em>Web-Designer • Java Programmer  • Problem Solver</em>
 </p>
 <h6 align="center">
-  <img src="https://komarev.com/ghpvc/?username=RishiRagu2510&color=brightgreen&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=balasundary&color=brightgreen&style=for-the-badge"/>
 
 </h6>
 <p align="center">

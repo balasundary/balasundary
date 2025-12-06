@@ -3,10 +3,10 @@
 <p align="center">
   <em>Web-Designer • Java Programmer  • Problem Solver</em>
 </p>
-<p align="center">
+<h6 align="center">
   <img src="https://komarev.com/ghpvc/?username=RishiRagu2510&color=brightgreen&style=for-the-badge"/>
 
-</p>
+</h6>
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=650&lines=Web+Designer;Java+Programmer;Problem+Solver" 
